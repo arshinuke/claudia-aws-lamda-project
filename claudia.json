@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "claudiaExample1-executor",
+    "name": "claudiaExample1",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "0w66xjfuaa"
+  }
+}
